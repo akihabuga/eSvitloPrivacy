@@ -1,2 +1,0 @@
-# eSvitloPrivacy
-privacy
